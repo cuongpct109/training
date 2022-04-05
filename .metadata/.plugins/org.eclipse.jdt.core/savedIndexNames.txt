@@ -39,7 +39,6 @@ INDEX VERSION 1.131+C:\Users\cuong.tran\eclipse-workspace\.metadata\.plugins\org
 1445374004.index
 3788097072.index
 2317059553.index
-985413812.index
 927317437.index
 3891834195.index
 2735735323.index
